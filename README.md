@@ -7,7 +7,7 @@
 
 <h2 align = "center">Languages and Tools</h2>
 
-<p align="center"> 
+<div style="display: flex; flex-wrap: wrap;"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
@@ -74,7 +74,7 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
     </a> 
-</p>
+</div>
 
 <br>
 
