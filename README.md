@@ -2,7 +2,7 @@
 
 - 🎓 I've completed my Bachelor's degree in Informatics Engineering and Computing @ FEUP
 - 🔭 I'm currently working on my masters degree and I'm looking for an intership.
-- 🌱 My interests are cybersecurity and low-level programming.
+- 🌱 My interests are embedded, cybersecurity and low-level programming. But I'll also do high-level for fun :-)
 - 📫 How to reach me: antonio.abilio2004@hotmail.com
 
 <h2 align = "center">Languages and Tools</h2>
